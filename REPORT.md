@@ -14,7 +14,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 
 | Task | File ZIP đúng tên | Hoàn thành mấy ảnh | Điểm tối đa (coach chấm sau) |
 | --- | --- | ---: | ---: |
-| easy_semantic | chưa có (ZIP export hiện rỗng, cần export lại) | chưa xác minh / 3 | 20 |
+| easy_semantic | easy_semantic.zip | 3 / 3 | 20 |
 | medium_instance | medium_instance.zip | 3 / 3 | 32 |
 | hard_panoptic | hard_panoptic.zip | 2 / 2 | 30 |
 | cp1_holes | chưa có | 0 / 1 | 3 |
